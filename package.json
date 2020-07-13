@@ -1,6 +1,6 @@
 {
   "name": "@ionic/prettier-config",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Prettier config for Ionic and Capacitor",
   "main": "index.js",
   "repository": {
