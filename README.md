@@ -1,6 +1,6 @@
 # @ionic/prettier-config
 
-Shared Prettier config used in Ionic and Capacitor projects.
+Shared Prettier config used in Ionic, Capacitor, and Stencil projects.
 
 ## Usage
 
