@@ -1,13 +1,15 @@
 module.exports = {
-  arrowParens: 'avoid',
+  printWidth: 120, // default: 80
+  tabWidth: 2,
+  useTabs: false,
+  semi: true,
+  singleQuote: true, // default: false
+  quoteProps: 'as-needed',
+  jsxSingleQuote: false,
+  trailingComma: 'es5',
   bracketSpacing: true,
   jsxBracketSameLine: false,
-  jsxSingleQuote: false,
-  quoteProps: 'consistent',
-  semi: true,
-  singleQuote: true,
-  tabWidth: 2,
-  trailingComma: 'all',
+  arrowParens: 'always',
   overrides: [
     {
       files: ['*.java'],
