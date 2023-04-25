@@ -2,18 +2,18 @@
   "name": "@ionic/prettier-config",
   "version": "2.1.1",
   "description": "Prettier config for Ionic and Capacitor",
-  "main": "index.js",
+  "keywords": [],
+  "homepage": "https://github.com/ionic-team/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/ionic-team/prettier-config/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ionic-team/prettier-config.git"
   },
-  "keywords": [],
-  "author": "Ionic <hi@ionicframework.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ionic-team/prettier-config/issues"
-  },
-  "homepage": "https://github.com/ionic-team/prettier-config#readme",
+  "author": "Ionic <hi@ionicframework.com>",
+  "main": "index.js",
   "peerDependencies": {
     "prettier": "^2.4.0"
   }
