@@ -20,5 +20,11 @@ module.exports = {
         trailingComma: 'none',
       },
     },
+    {
+      files: '*.md',
+      options: {
+        parser: 'mdx',
+      },
+    },
   ],
 };
