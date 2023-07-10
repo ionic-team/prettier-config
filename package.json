@@ -1,6 +1,6 @@
 {
   "name": "@ionic/prettier-config",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Prettier config for Ionic and Capacitor",
   "keywords": [],
   "homepage": "https://github.com/ionic-team/prettier-config#readme",
